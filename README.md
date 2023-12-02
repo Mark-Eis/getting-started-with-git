@@ -14,4 +14,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 Based on a work at https://github.com/raspberrypilearning/getting-started-with-git
 
-### Amazing!
+### Amazing Grace!
